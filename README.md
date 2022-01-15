@@ -16,4 +16,4 @@
 | ![](https://raw.githubusercontent.com/asudbury/asudbury/master/assets/img/git-repository-line.svg) Konas                        | none                        | https://konasclient.com                                            |
 
 # Stats
-![](https://github.com/AquarDev/github-stats/blob/master/generated/overview.svg)
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/AquarDev?cardType=github&theme=github-dark&Text=73B4DD&Ring=2163DD)](https://git.io/awesome-stats-card)
