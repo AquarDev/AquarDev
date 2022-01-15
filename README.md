@@ -10,7 +10,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# Where i work on
+# Projects
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | ![](https://raw.githubusercontent.com/asudbury/asudbury/master/assets/img/git-repository-line.svg) Konas                        | none                        | https://konasclient.com                                            |
+
+# Stats
+![](https://github.com/AquarDev/github-stats/blob/master/generated/overview.svg)
