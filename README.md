@@ -23,8 +23,7 @@ Discord: Aquar#5744
 # Projects
 | Description                                                              | Repository                                                                | Website                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/asudbury/asudbury/master/assets/img/git-repository-line.svg) Konas                        | none                        | https://konasclient.com                                            |
 | ![](https://raw.githubusercontent.com/asudbury/asudbury/master/assets/img/git-repository-line.svg) Moderation Bot                        | [repository](https://github.com/AquarDev/ModerationBot)                        | none                                            |
-
+| ![](https://raw.githubusercontent.com/asudbury/asudbury/master/assets/img/git-repository-line.svg) Konas                        | none                        | https://konasclient.com                                            |
 # Stats
 ![Statistics Overview](https://raw.githubusercontent.com/AquarDev/github-stats/master/generated/overview.svg)  ![Languages Overview](https://raw.githubusercontent.com/AquarDev/github-stats/master/generated/languages.svg)
